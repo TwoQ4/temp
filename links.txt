@@ -1,0 +1,14 @@
+//ГОСТ-106
+http://technicaldocs.ru/гост19/нпа/гост19.106-78
+
+//Техническое задание
+https://pro-prof.com/forums/topic/пример-технического-задания-по-гост-19-201-78
+
+//Руководство оператора
+https://stilsoft.ru/file/Руководство+оператора+АРМ+Синергет+КСБО-581370e1cb6b5f589d5c21b551fa6d22
+
+//Руководство программиста
+
+https://docs.cntd.ru/document/1200007675
+https://tdocs.su/12008
+http://www.sigma-is.ru/file_archive/documentation/id_spo_04_rp.pdf
